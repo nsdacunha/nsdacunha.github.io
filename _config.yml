@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My Personal Repository hosting code from projects I am
   interested in.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://github.com/nsdacunha" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nsdacunha.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nsdacunha
 github_username:  nsdacunha
 
